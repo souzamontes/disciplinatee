@@ -1,1 +1,4 @@
-é importante que todos tenham consciência sobre as funções e comando do git.
+é importante que todos ter ... 
+
+
+É preciso cuidado no commite.
